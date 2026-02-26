@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hallo, ich bin Awat 👋
 
-<!--
-**Awat-J-Taha/Awat-J-Taha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇮🇶 Kurdischer Entwickler aus Kiel | Autodidakt | Ich baue Apps für Menschen die die Tech-Welt vergisst.
 
-Here are some ideas to get you started:
+## 🚀 Was ich mache
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ich entwickle mobile Apps und Webanwendungen mit Fokus auf **Mehrsprachigkeit** und **Kurdisch/RTL-Support** – eine Nische die kaum jemand besetzt.
+
+## 🛠️ Tech Stack
+
+**Mobile:** Android (Kotlin) · Flutter (Dart)  
+**Web:** React · TypeScript · Vite · Tailwind CSS  
+**Tools:** Web Audio API · Canvas API · Google Gemini AI · Room DB · Koin DI  
+**Sprachen:** Kurdisch Sorani · Deutsch · Arabisch · Englisch
+
+## 📱 Meine Projekte
+
+| Projekt | Beschreibung | Tech |
+|---------|-------------|------|
+| 🏋️ GymHome | Fitness-App auf Kurdisch Sorani | Kotlin · Jetpack Compose · Room |
+| 🎵 Audio Visualizer Studio | Browser-basierter Musik-Visualizer mit Video-Export | Web Audio API · Canvas · JS |
+| 📄 CVMaster | Lebenslauf-App für Migranten in 5 Sprachen | Flutter · Dart |
+| 🎮 Kurdish Vocabulary Games | Sprachlern-App Deutsch↔Kurdisch mit KI | React · Gemini AI · TypeScript |
+| 🌐 CreativeStudio | Mehrsprachige Agentur-Website (DE/KU) | React · Vite · Tailwind |
+
+## 🎯 Mein Ziel
+
+Eine Plattform aufbauen die kurdischen Entwicklern und Nutzern moderne Tech-Lösungen in ihrer Muttersprache anbietet.
+
+## 📫 Kontakt
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/awat-jamal-taha)
