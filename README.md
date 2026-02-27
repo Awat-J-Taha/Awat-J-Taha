@@ -4,7 +4,7 @@
 
 ## 🚀 Was ich mache
 
-Ich entwickle mobile Apps und Webanwendungen mit Fokus auf **Mehrsprachigkeit** und **Kurdisch/RTL-Support** – eine Nische die kaum jemand besetzt.
+Ich entwickle mobile Apps und Webanwendungen mit Fokus auf **Mehrsprachigkeit** und **Kurdisch/RTL-Support** – eine Nische die kaum jemand noch umsetzten will.
 
 ## 🛠️ Tech Stack
 
