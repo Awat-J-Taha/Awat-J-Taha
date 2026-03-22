@@ -1,10 +1,10 @@
 # Hallo, ich bin Awat 👋
 
-🇮🇶 Kurdischer Entwickler aus Kiel | Autodidakt | Ich baue Apps für Menschen die die Tech-Welt vergisst.
+🇮🇶 Kurdischer Entwickler aus Kiel | Autodidakt.
 
 ## 🚀 Was ich mache
 
-Ich entwickle mobile Apps und Webanwendungen mit Fokus auf **Mehrsprachigkeit** und **Kurdisch/RTL-Support** – eine Nische die kaum jemand noch umsetzten will.
+Ich entwickle mobile Apps und Webanwendungen mit Fokus auf **Mehrsprachigkeit** und **Kurdisch/RTL-Support**.
 
 ## 🛠️ Tech Stack
 
